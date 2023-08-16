@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Author&amp;Books_Backend.props" />
+</Project>
